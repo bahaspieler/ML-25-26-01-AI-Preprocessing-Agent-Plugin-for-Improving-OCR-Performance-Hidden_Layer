@@ -4,4 +4,4 @@ AI-driven preprocessing agent/plugin that adaptively enhances document images (d
 - MD Tazmim Hossain — Matriculation No: 1502556
 - Rakat Murshed  — Matriculation No: 1502837
 - Baha Uddin Ahmed -   Matriculation No: 1568217
-- M M Rauf  Shahriyar-  Matriculation No:
+- M M Rauf Shahriyar -  Matriculation No: 1504901
